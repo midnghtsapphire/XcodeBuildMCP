@@ -293,6 +293,13 @@ XcodeBuildMCP provides a unified command-line interface. The `mcp` subcommand st
 
 ```bash
 # Install globally
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/xcodebuildmcp?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/xcodebuildmcp?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/xcodebuildmcp?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-2.0.7-blue?style=flat-square)](https://www.npmjs.com/package/xcodebuildmcp)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 npm install -g xcodebuildmcp@latest
 
 # Start the MCP server (for MCP clients)
